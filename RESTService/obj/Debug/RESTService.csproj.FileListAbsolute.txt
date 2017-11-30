@@ -1,0 +1,25 @@
+c:\users\slavkoz\documents\visual studio 2015\Projects\RESTService\RESTService\bin\RESTService.dll.config
+c:\users\slavkoz\documents\visual studio 2015\Projects\RESTService\RESTService\bin\RESTService.dll
+c:\users\slavkoz\documents\visual studio 2015\Projects\RESTService\RESTService\bin\RESTService.pdb
+c:\users\slavkoz\documents\visual studio 2015\Projects\RESTService\RESTService\obj\Debug\RESTService.csprojResolveAssemblyReference.cache
+c:\users\slavkoz\documents\visual studio 2015\Projects\RESTService\RESTService\obj\Debug\RESTService.dll
+c:\users\slavkoz\documents\visual studio 2015\Projects\RESTService\RESTService\obj\Debug\RESTService.pdb
+C:\Users\slavkoz\Documents\Visual Studio 2015\Projects\Vaja19_VS\RESTService\bin\RESTService.dll.config
+C:\Users\slavkoz\Documents\Visual Studio 2015\Projects\Vaja19_VS\RESTService\bin\RESTService.dll
+C:\Users\slavkoz\Documents\Visual Studio 2015\Projects\Vaja19_VS\RESTService\bin\RESTService.pdb
+C:\Users\slavkoz\Documents\Visual Studio 2015\Projects\Vaja19_VS\RESTService\obj\Debug\RESTService.csprojResolveAssemblyReference.cache
+C:\Users\slavkoz\Documents\Visual Studio 2015\Projects\Vaja19_VS\RESTService\obj\Debug\RESTService.dll
+C:\Users\slavkoz\Documents\Visual Studio 2015\Projects\Vaja19_VS\RESTService\obj\Debug\RESTService.pdb
+C:\Users\lrkadmin\Desktop\Vaja19_VS\RESTService\bin\RESTService.dll.config
+C:\Users\lrkadmin\Desktop\Vaja19_VS\RESTService\bin\RESTService.dll
+C:\Users\lrkadmin\Desktop\Vaja19_VS\RESTService\bin\RESTService.pdb
+C:\Users\lrkadmin\Desktop\Vaja19_VS\RESTService\obj\Debug\RESTService.csprojResolveAssemblyReference.cache
+C:\Users\lrkadmin\Desktop\Vaja19_VS\RESTService\obj\Debug\RESTService.dll
+C:\Users\lrkadmin\Desktop\Vaja19_VS\RESTService\obj\Debug\RESTService.pdb
+C:\Users\jerne\Google Drive\School\FRI\3. letnik\1. semester\Informacijski Sistemi\Vaje\6. Uporaba SQLConnection, avtentikacija spletnih storitev\REST\RESTService\bin\RESTService.dll.config
+C:\Users\jerne\Google Drive\School\FRI\3. letnik\1. semester\Informacijski Sistemi\Vaje\6. Uporaba SQLConnection, avtentikacija spletnih storitev\REST\RESTService\bin\RESTService.dll
+C:\Users\jerne\Google Drive\School\FRI\3. letnik\1. semester\Informacijski Sistemi\Vaje\6. Uporaba SQLConnection, avtentikacija spletnih storitev\REST\RESTService\bin\RESTService.pdb
+C:\Users\jerne\Google Drive\School\FRI\3. letnik\1. semester\Informacijski Sistemi\Vaje\6. Uporaba SQLConnection, avtentikacija spletnih storitev\REST\RESTService\obj\Debug\RESTService.csprojResolveAssemblyReference.cache
+C:\Users\jerne\Google Drive\School\FRI\3. letnik\1. semester\Informacijski Sistemi\Vaje\6. Uporaba SQLConnection, avtentikacija spletnih storitev\REST\RESTService\obj\Debug\RESTService.csproj.CoreCompileInputs.cache
+C:\Users\jerne\Google Drive\School\FRI\3. letnik\1. semester\Informacijski Sistemi\Vaje\6. Uporaba SQLConnection, avtentikacija spletnih storitev\REST\RESTService\obj\Debug\RESTService.dll
+C:\Users\jerne\Google Drive\School\FRI\3. letnik\1. semester\Informacijski Sistemi\Vaje\6. Uporaba SQLConnection, avtentikacija spletnih storitev\REST\RESTService\obj\Debug\RESTService.pdb

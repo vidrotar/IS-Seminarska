@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="SlivkoDatabaseConnectionString-Web.config Connection String" description="SlivkoDatabaseConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=asistentslivko.database.windows.net;Initial Catalog=SlivkoDatabase;Persist Security Info=True;User ID=jernejvid;Password=Leibniz1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jerne\\Google\ Drive\\School\\FRI\\3\.\ letnik\\1\.\ semester\\Informacijski\ Sistemi\\Seminarska\\IS-Seminarska\\RESTService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SlivkoDatabaseConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
