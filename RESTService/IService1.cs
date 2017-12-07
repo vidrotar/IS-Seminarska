@@ -16,8 +16,24 @@ namespace RESTService
         List<Message> GetMessages();
 
         [OperationContract]
-        [WebGet(UriTemplate = "VrniOsebo", ResponseFormat = WebMessageFormat.Json)]
-        Oseba VrniOsebo();
+        [WebGet(UriTemplate = "Osebe", ResponseFormat = WebMessageFormat.Json)]
+        List<Oseba> VrniSeznamOseb();
+
+        [OperationContract]
+        [WebGet(UriTemplate = "Oseba/{id}", ResponseFormat = WebMessageFormat.Json)]
+        Oseba VrniOsebo(string id);
+
+        [OperationContract]
+        [WebInvoke(UriTemplate = "Oseba", ResponseFormat = WebMessageFormat.Json)]
+        void DodajOsebo(Oseba oseba);
+
+        [OperationContract]
+        [WebInvoke(UriTemplate = "Oseba/{id}", ResponseFormat = WebMessageFormat.Json, Method = "DELETE")]
+        void IzbrisiOsebo(string id);
+
+        [OperationContract]
+        [WebInvoke(UriTemplate = "Oseba/{id}", ResponseFormat = WebMessageFormat.Json, Method = "PUT")]
+        void PosodobiOsebo(Oseba oseba, string id);
 
     }
 

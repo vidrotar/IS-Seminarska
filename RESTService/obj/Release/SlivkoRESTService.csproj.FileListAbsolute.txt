@@ -4,3 +4,4 @@ C:\Users\jerne\Google Drive\School\FRI\3. letnik\1. semester\Informacijski Siste
 C:\Users\jerne\Google Drive\School\FRI\3. letnik\1. semester\Informacijski Sistemi\Seminarska\IS-Seminarska\RESTService\obj\Release\SlivkoRESTService.csproj.CoreCompileInputs.cache
 C:\Users\jerne\Google Drive\School\FRI\3. letnik\1. semester\Informacijski Sistemi\Seminarska\IS-Seminarska\RESTService\obj\Release\RESTService.dll
 C:\Users\jerne\Google Drive\School\FRI\3. letnik\1. semester\Informacijski Sistemi\Seminarska\IS-Seminarska\RESTService\obj\Release\RESTService.pdb
+C:\Users\jerne\Google Drive\School\FRI\3. letnik\1. semester\Informacijski Sistemi\Seminarska\IS-Seminarska\RESTService\obj\Release\SlivkoRESTService.csprojResolveAssemblyReference.cache
